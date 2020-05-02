@@ -2,7 +2,9 @@
   "name": "ajeet-react-redux-starter-kit",
   "description": "React and Redux Starter kit with some initial configuration",
   "author": "Ajeet Chaulagain",
-  "scripts": {},
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.config.dev.js --port 3000"
+  },
   "dependencies": {
     "bootstrap": "4.3.1",
     "immer": "2.1.3",
@@ -45,10 +47,10 @@
     "redux-mock-store": "1.5.3",
     "rimraf": "2.6.3",
     "style-loader": "0.23.1",
-    "webpack": "4.29.6",
+    "webpack": "^4.29.6",
     "webpack-bundle-analyzer": "^3.7.0",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "3.2.1"
+    "webpack-dev-server": "^3.2.1"
   },
   "engines": {
     "node": ">=8"
