@@ -1,6 +1,6 @@
 # React & Redux Starter Kit with some initial configuration
 
-This is custom react-redux starter kit for my future react and redux project. This starter kit comes with rich development environment configured for React and Redux project.
+This is a custom react-redux starter kit with some initial configuration for rich development environment while doing react-redux project.
 
 ## Setup
 
@@ -8,8 +8,10 @@ If you would like to try this starter kit, simply follow these steps:
 
 1. Install Node version 8 or newers.
 2. cd to project directory and install node packages - `npm install`
+3. `npm run dev`
 
-##  Dependencies:
+## Dependencies:
+
 ### Production Dependencies:
 
 | **Dependency**   | **Use**                                              |
@@ -26,7 +28,7 @@ If you would like to try this starter kit, simply follow these steps:
 | redux-thunk      | Async redux library                                  |
 | reselect         | Memoize selectors for performance                    |
 
-### Development Dependencies
+### Development Dependencies:
 
 | **Dependency**                  | **Use**                                                          |
 | ------------------------------- | ---------------------------------------------------------------- |
@@ -62,7 +64,6 @@ If you would like to try this starter kit, simply follow these steps:
 | webpack-cli                     | Run Webpack via the command line                                 |
 | webpack-dev-server              | Serve app via Webpack                                            |
 
-
 ## Acknowledgement and Thanks
 
-This starter kit is prepared based on the [Starter Kit](https://github.com/coryhouse/pluralsight-redux-starter) by [Cory House](https://github.com/coryhouse)
+This starter kit is prepared with additional custom configuration on the [Starter Kit](https://github.com/coryhouse/pluralsight-redux-starter) by [Cory House](https://github.com/coryhouse)

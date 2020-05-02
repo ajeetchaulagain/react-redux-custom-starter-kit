@@ -1,7 +1,7 @@
 {
   "name": "ajeet-react-redux-starter-kit",
   "description": "React and Redux Starter kit with some initial configuration",
-  "author":"Ajeet Chaulagain",
+  "author": "Ajeet Chaulagain",
   "scripts": {},
   "dependencies": {
     "bootstrap": "4.3.1",
