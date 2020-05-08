@@ -1,4 +1,4 @@
-# React & Redux Starter Kit with some initial configuration
+# :key: React & Redux Starter Kit with some initial configuration
 
 This is a custom react-redux starter kit with some initial configuration for rich development environment while doing react-redux project.
 
